@@ -15,7 +15,7 @@ public class JavaGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.err.println("Bienvenido a mi aplicaicón");
+        System.err.println("Bienvenido a mi aplicación");
     }
     
 }
