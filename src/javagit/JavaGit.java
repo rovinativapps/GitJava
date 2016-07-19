@@ -7,7 +7,7 @@ package javagit;
 
 /**
  *
- * @author Rovi
+ * @author Rovi Acuña
  */
 public class JavaGit {
 
